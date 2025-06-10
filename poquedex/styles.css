@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f5f5f5;
+    margin: 50px;
+    background-image: url('https://internovam.com/blog/wp-content/uploads/2016/07/Screenshot_3.jpg');
+}
+
+input {
+    padding: 10px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    width: 250px;
+}
+
+button {
+    background-color: #ffcc00;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+
+#pokemonInfo {
+    margin-top: 20px;
+    padding: 20px;
+    border: 2px solid #ffcc00;
+    border-radius: 10px;
+    background-color: #fff3cd;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
+    
+    text-align: center;
+}
+
+#pokemonImage {
+    width: 150px;
+    height: 150px;
+}
+
+/* crear un style para poner de fondo la imgen de la carpeta img*/
+#pokemonImage {
+    background-image:
+}
