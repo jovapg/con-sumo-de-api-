@@ -1,2 +1,2 @@
 # con-sumo-de-api-
-app consumineto api de poquemones 
+app consumiendo api de poquemones 
